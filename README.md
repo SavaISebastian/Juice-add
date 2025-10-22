@@ -1,4 +1,4 @@
-# Juice-add 🧃
+# Juice-add-Blender🧃
 ## Blender made project add for promoting Natural Juices. 
 
 
